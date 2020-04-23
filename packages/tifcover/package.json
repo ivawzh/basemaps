@@ -1,0 +1,15 @@
+{
+  "name": "tifcover",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@basemaps/geo": "^1.2.0",
+    "@cogeotiff/core": "^1.0.3",
+    "@cogeotiff/source-file": "^1.0.3",
+    "@mapbox/tile-cover": "^3.0.2",
+    "global-mercator": "^3.1.0",
+    "proj4": "^2.6.1",
+    "turf": "^3.0.14"
+  }
+}
